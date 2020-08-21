@@ -1,0 +1,9 @@
+greeter:
+  name: "Greeter"
+  tagline: "Manage your staff birthdays"
+progresshub:
+  name: "Progresshub"
+  tagline: "Rent a vintage project"
+carebridge:
+  name: "Care Bridge"
+  tagline: "Rent a vintage toilet"
